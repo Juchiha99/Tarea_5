@@ -4,6 +4,7 @@ using namespace std;
  
 int main()
 {
+	cout<<"hice un cambio";
     int A[100],j,item,temp,i,k,n;
     cout<<"Ingresa la cantidad de elementos: ";
     cin>>n;
